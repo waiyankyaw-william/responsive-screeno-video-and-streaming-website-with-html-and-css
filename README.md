@@ -1,6 +1,6 @@
 # Screeno Video and Streaming Webiste by HTML & CSS
 
-This is a sleek and modern news website designed for desktop users, focusing on delivering the latest updates and information in an engaging and user-friendly layout.
+Screnno is a versatile video and streaming platform that helps you manage, showcase, and monetize your content. Easily Upload & Organize videos, offer On-Demand Streaming, and schedule Live Streams with countdown overlays. Monetize with subscriptions or one-time purchases, and gain insights with Analytics. Screnno ensures seamless viewing across all devices.
 
 > Design Credit:
 >
