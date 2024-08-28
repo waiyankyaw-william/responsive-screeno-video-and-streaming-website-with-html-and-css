@@ -7,4 +7,4 @@ Website Link - https://waiyankyaw-william.github.io/screeno-video-and-streaming-
 <br>
 > Design Credit:
 >
-> Design by Mihajlo Kovačević. The original design can be found on Figma: [News Website Design](https://www.figma.com/community/file/1083846628871703375/screeno-video-and-streaming-website-template).
+> Design by Mihajlo Kovačević. The original design can be found on Figma: [Design](https://www.figma.com/community/file/1083846628871703375/screeno-video-and-streaming-website-template).
